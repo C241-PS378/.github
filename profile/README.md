@@ -28,6 +28,7 @@ proper waste disposal in Indonesia, and assessing the impact of financial incent
 encouraging waste recycling efforts. The mismanagement of waste poses substantial
 threats to Indonesia's environment, public health, and sustainable development, which are
 worsened by traditional disposal methods and insufficient infrastructure.
+
 Our team is working to tackle this issue by developing an e-commerce app that
 enables users to sell recyclable waste to other users and/or nearby collectors, thereby
 encouraging responsible disposal practices and promoting a circular economy. The app
