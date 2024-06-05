@@ -8,7 +8,7 @@
 
 #### Members
 | Name                    | ID            | Path               |  University                                  |
-| ---------------------   |:-------------:|:------------------:|                                              |
+| ---------------------   |:-------------:|:------------------:|:--------------------------------------------:|
 | Alda Kurnia Putri       | M015D4KX2311  | Machine Learning   | Universitas Negeri Yogyakarta                |
 | Salsabila Hasna Fitria  | M015D4KX2108  | Machine Learning   | Universitas Negeri Yogyakarta                |
 | Siti Marwah             | M228D4KX2569  |  Machine Learning  | Universitas Jenderal Achmad Yani Yogyakarta  |
