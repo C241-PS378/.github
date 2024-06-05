@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="/profile/logo_app.png"/>
+  <img align="center" width="400" src="/profile/Variant=Logo.png"/>
 </p>
 <h1 align="center">CuMa (Cuan Sampah)📍</h1>
 <h2 align="center"><em>Save Waste, Save Earth, Save Money🌎💰</em></h2>
