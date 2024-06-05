@@ -7,12 +7,12 @@
 <h3 align="center">Bangkit 2024 Capstone Team: C241-PS378</h3>
 
 #### Members
-| Name                    | ID            | Path               | 
-| ---------------------   |:-------------:|:------------------:|
-| Alda Kurnia Putri       | M015D4KX2311  | Machine Learning   | 
-| Salsabila Hasna Fitria  | M015D4KX2108  | Machine Learning   |
-| Siti Marwah             | M228D4KX2569  |  Machine Learning  |
-| Rifki Gifari            | C009D4KY0192  | Cloud Computing    |
-| Jihandika Prayugo       | C550D4NX1341  | Cloud Computing    |
-| Hernanda Hiqmal Maula   | A228D4KY3982  | Mobile Development |
-| Yatinah                 | A228D4KX3992  | Mobile Development |
+| Name                    | ID            | Path               |  University                                  |
+| ---------------------   |:-------------:|:------------------:|                                              |
+| Alda Kurnia Putri       | M015D4KX2311  | Machine Learning   | Universitas Negeri Yogyakarta                |
+| Salsabila Hasna Fitria  | M015D4KX2108  | Machine Learning   | Universitas Negeri Yogyakarta                |
+| Siti Marwah             | M228D4KX2569  |  Machine Learning  | Universitas Jenderal Achmad Yani Yogyakarta  |
+| Rifki Gifari            | C009D4KY0192  | Cloud Computing    | Universitas Gunadarma                        |
+| Jihandika Prayugo       | C550D4NX1341  | Cloud Computing    | UIN Syarif Hidayatullah Jakarta              |
+| Hernanda Hiqmal Maula   | A228D4KY3982  | Mobile Development | Universitas Jenderal Achmad Yani Yogyakarta  |
+| Yatinah                 | A228D4KX3992  | Mobile Development | Universitas Jenderal Achmad Yani Yogyakarta  |
