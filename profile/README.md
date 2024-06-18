@@ -4,18 +4,9 @@
 <h1 align="center">CuMa (Cuan Sampah)📍</h1>
 <h2 align="center"><em>Save Waste, Save Earth, Save Money🌎💰</em></h2>
 
-<h3 align="center">Bangkit 2024 Capstone Team: C241-PS378</h3>
+<h3 align="center">Bangkit C241-PS378 - Product Capstone Project</h3>
 
-#### 👷🏻‍♂️👷🏻‍♀️Members :
-| Name                    | ID            | Path               |  University                                  |
-| ---------------------   |:-------------:|:------------------:|:--------------------------------------------:|
-| Alda Kurnia Putri       | M015D4KX2311  | Machine Learning   | Universitas Negeri Yogyakarta                |
-| Salsabila Hasna Fitria  | M015D4KX2108  | Machine Learning   | Universitas Negeri Yogyakarta                |
-| Siti Marwah             | M228D4KX2569  |  Machine Learning  | Universitas Jenderal Achmad Yani Yogyakarta  |
-| Rifki Gifari            | C009D4KY0192  | Cloud Computing    | Universitas Gunadarma                        |
-| Jihandika Prayugo       | C550D4NX1341  | Cloud Computing    | UIN Syarif Hidayatullah Jakarta              |
-| Hernanda Hiqmal Maula   | A228D4KY3982  | Mobile Development | Universitas Jenderal Achmad Yani Yogyakarta  |
-| Yatinah                 | A228D4KX3992  | Mobile Development | Universitas Jenderal Achmad Yani Yogyakarta  |
+Hi everyone! We are from the C241-PS378 team, consisting of 3 Machine Learning students, 2 Cloud Computing students, and 2 Mobile Development students. This is our repository for the CuMa (Cuan Sampah) project. CuMa is the Bangkit 2024 capstone project with the theme of Save Waste, Save Earth, Save Money.
 
 #### 🦺Description :
 Indonesia is facing a severe waste management crisis, with approximately 34.29% of
@@ -36,3 +27,14 @@ also includes a marketplace feature to encourage users to sort inorganic waste, 
 both the environment and users like local craftsmen. By leveraging innovative technology
 and community engagement, our initiative aims to reduce waste accumulation and pave
 the way for a greener, more sustainable future in Indonesia.
+
+#### 👷🏻‍♂️👷🏻‍♀️Members :
+| Name                    | ID            | Path               |  University                                  |
+| ---------------------   |:-------------:|:------------------:|:--------------------------------------------:|
+| Alda Kurnia Putri       | M015D4KX2311  | Machine Learning   | Universitas Negeri Yogyakarta                |
+| Salsabila Hasna Fitria  | M015D4KX2108  | Machine Learning   | Universitas Negeri Yogyakarta                |
+| Siti Marwah             | M228D4KX2569  |  Machine Learning  | Universitas Jenderal Achmad Yani Yogyakarta  |
+| Rifki Gifari            | C009D4KY0192  | Cloud Computing    | Universitas Gunadarma                        |
+| Jihandika Prayugo       | C550D4NX1341  | Cloud Computing    | UIN Syarif Hidayatullah Jakarta              |
+| Hernanda Hiqmal Maula   | A228D4KY3982  | Mobile Development | Universitas Jenderal Achmad Yani Yogyakarta  |
+| Yatinah                 | A228D4KX3992  | Mobile Development | Universitas Jenderal Achmad Yani Yogyakarta  |
